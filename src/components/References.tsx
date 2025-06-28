@@ -15,73 +15,73 @@ const references: Reference[] = [
   {
     id: 'wdr',
     name: 'WDR',
-    logo: '/images/referenzen/logos/wdr.jpg',
+    logo: 'https://raw.githubusercontent.com/peerendees/hinzki/main/public/images/referenzen/logos/wdr.jpg',
     description: 'Digitale Medienproduktion'
   },
   {
     id: '1live',
     name: '1LIVE',
-    logo: '/images/referenzen/logos/1live.jpg',
+    logo: 'https://raw.githubusercontent.com/peerendees/hinzki/main/public/images/referenzen/logos/1live.jpg',
     description: 'Social Media Innovation'
   },
   {
     id: 'sportschau',
     name: 'ARD Sportschau',
-    logo: '/images/referenzen/logos/logo-sportschau-100.jpg',
+    logo: 'https://raw.githubusercontent.com/peerendees/hinzki/main/public/images/referenzen/logos/logo-sportschau-100.jpg',
     description: 'Crossmediale Strategien'
   },
   {
     id: 'arte',
     name: 'ARTE',
-    logo: '/images/referenzen/logos/arte.jpg',
+    logo: 'https://raw.githubusercontent.com/peerendees/hinzki/main/public/images/referenzen/logos/arte.jpg',
     description: 'Content-Strategie'
   },
   {
     id: 'swr',
     name: 'SWR',
-    logo: '/images/referenzen/logos/SWR_Logo_RGB.png',
+    logo: 'https://raw.githubusercontent.com/peerendees/hinzki/main/public/images/referenzen/logos/SWR_Logo_RGB.png',
     description: 'Digitale Transformation'
   },
   {
     id: 'cosmo',
     name: 'COSMO',
-    logo: '/images/referenzen/logos/cosmo_.jpg',
+    logo: 'https://raw.githubusercontent.com/peerendees/hinzki/main/public/images/referenzen/logos/cosmo_.jpg',
     description: 'Multimediale Konzepte'
   },
   {
     id: 'thkoeln',
     name: 'TH Köln',
-    logo: '/images/referenzen/logos/thkoeln.jpg',
+    logo: 'https://raw.githubusercontent.com/peerendees/hinzki/main/public/images/referenzen/logos/thkoeln.jpg',
     description: 'Hochschuldozent & Schulungen'
   },
   {
     id: 'grimme-institut',
     name: 'Grimme Institut',
-    logo: '/images/referenzen/logos/logo_grimme-institut-1.png',
+    logo: 'https://raw.githubusercontent.com/peerendees/hinzki/main/public/images/referenzen/logos/logo_grimme-institut-1.png',
     description: 'Medienqualität & Innovation'
   },
   {
     id: 'livenation',
     name: 'Live Nation',
-    logo: '/images/referenzen/logos/livenation.jpg',
+    logo: 'https://raw.githubusercontent.com/peerendees/hinzki/main/public/images/referenzen/logos/livenation.jpg',
     description: 'Event-Marketing'
   },
   {
     id: 'deutsche-bank',
     name: 'Deutsche Bank',
-    logo: '/images/referenzen/logos/Deutsche-Bank-Finanzberatung.png',
+    logo: 'https://raw.githubusercontent.com/peerendees/hinzki/main/public/images/referenzen/logos/Deutsche-Bank-Finanzberatung.png',
     description: 'Finanzberatung Digital'
   },
   {
     id: 'brillux',
     name: 'Brillux',
-    logo: '/images/referenzen/logos/Brillux-Radio-Logo-2022.png',
+    logo: 'https://raw.githubusercontent.com/peerendees/hinzki/main/public/images/referenzen/logos/Brillux-Radio-Logo-2022.png',
     description: 'Corporate Communication'
   },
   {
     id: 'klar',
     name: 'KLAR',
-    logo: '/images/referenzen/logos/Klarlogo.png',
+    logo: 'https://raw.githubusercontent.com/peerendees/hinzki/main/public/images/referenzen/logos/Klarlogo.png',
     description: 'Markenentwicklung'
   }
 ]

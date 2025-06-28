@@ -115,7 +115,7 @@ export default function Home() {
                 {/* Enhanced Photo Container */}
                 <div className="relative rounded-2xl overflow-hidden shadow-2xl border-2 border-white/20 bg-white/5 backdrop-blur-sm">
                   <img 
-                    src="/images/team/Olli_2024.jpg"
+                    src="https://raw.githubusercontent.com/peerendees/hinzki/main/public/images/team/Olli_2024.jpg"
                     alt="Oliver Hinz, Gründer von HAUS HINZKI"
                     className="w-full h-auto object-cover relative z-10"
                     loading="eager"
