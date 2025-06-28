@@ -1,19 +1,35 @@
-# Hinzki
+# HAUS HINZKI Website Relaunch
 
-Ein Web-Projekt von peerendees.
+Projekt für den Relaunch der HAUS HINZKI Website (https://haushinzki.de).
 
-## Beschreibung
+## Projektstruktur
 
-[Hier kommt deine Projektbeschreibung]
+```
+assets/
+  ├── images/         # Alle Bilder und Fotos
+  │   ├── institut/   # Bilder für KI-Institut
+  │   ├── akademie/   # Bilder für Akademie
+  │   ├── agentur/    # Bilder für Agentur
+  │   ├── team/       # Team-Fotos
+  │   └── referenzen/ # Referenz-Bilder
+  ├── logos/          # Logo-Dateien
+  ├── css/            # Stylesheets
+  └── js/            # JavaScript-Dateien
+docs/                # Dokumentation
+```
 
-## Installation
+## Setup
 
-[Installationsanweisungen folgen]
+[Setup-Anweisungen folgen]
 
-## Verwendung
+## Entwicklung
 
-[Nutzungsanweisungen folgen]
+[Entwicklungsrichtlinien folgen]
+
+## Deployment
+
+[Deployment-Informationen folgen]
 
 ## Lizenz
 
-[Lizenzinformationen folgen] 
+Alle Inhalte sind urheberrechtlich geschützt durch HAUS HINZKI. Verwendung nur mit ausdrücklicher Genehmigung. 
